@@ -1,0 +1,13 @@
+{
+  "name": "REDAXO",
+  "source": "https://www.redaxo.org",
+  "docker_image": "friendsofredaxo/redaxo:5",
+  "version": "5",
+  "repository": "https://github.com/waskevin/tnas-app-redaxo",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "REDAXO container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
